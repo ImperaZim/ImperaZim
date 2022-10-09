@@ -18,7 +18,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperaZim&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=transparent"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperaZim&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=transparent"
     />
   </a>
 </p>
@@ -27,7 +27,7 @@
   <a href="https://github.com/LadinoXx">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LadinoXx&theme=midnight-purple&no-frame=true&row=1&&margin-w=0&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=LadinoXx&theme=transparent&no-frame=true&row=1&&margin-w=0&no-bg=true"
     />
   </a>
 </a>
