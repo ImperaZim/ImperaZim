@@ -11,14 +11,14 @@
 <summary>Outros detalhes...</summary>
  <h1> Github Stats </h1>
   <a href="https://github.com/ImperaZim">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ImperaZim&show_icons=true&hide_border=true&theme=midnight-purple&count_private=true">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ImperaZim&show_icons=true&hide_border=true&theme=transparent&count_private=true">
   </a>
  <br>
   <a href="https://github.com/ImperaZim">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperaZim&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=default"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperaZim&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=transparent"
     />
   </a>
 </p>
