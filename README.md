@@ -5,11 +5,15 @@
 <img width="20px" src="https://cdn.discordapp.com/emojis/1008073010768519268.png?size=2048"></img> Hello, I'm known <span style="background-color: purple;">ImperaZim!</span> I'm a Full Stack programmer with knowledge in several areas of the sector and at the moment I'm focusing on creating interfaces and developing addons & games. 
 
 ---
+<h4 align="center">
+<details>
+<summary>Languages</summary>
+ 
+</details>  
 
 <h4 align="center">
 <details>
-<summary>Other details...</summary>
- <h1> Github Stats </h1>
+<summary> Github Stats </summary>
   <a href="https://github.com/ImperaZim">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ImperaZim&show_icons=true&hide_border=true&theme=transparent&count_private=true">
   </a>
