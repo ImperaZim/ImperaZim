@@ -8,7 +8,7 @@
 
 <h4 align="center">
 <details>
-<summary>Outros detalhes...</summary>
+<summary>Other details...</summary>
  <h1> Github Stats </h1>
   <a href="https://github.com/ImperaZim">
    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ImperaZim&show_icons=true&hide_border=true&theme=transparent&count_private=true">
