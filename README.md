@@ -24,10 +24,10 @@
 </p>
  
 <p align="center">
-  <a href="https://github.com/LadinoXx">
+  <a href="https://github.com/ImperaZim">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LadinoXx&theme=transparent&no-frame=true&row=1&&margin-w=0&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=ImperaZim&theme=transparent&no-frame=true&row=1&&margin-w=0&no-bg=true"
     />
   </a>
 </a>
