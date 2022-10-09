@@ -1,7 +1,6 @@
 
 /* LOAD BODY CONTENT */
-var content = `
-<div id="console">
+var content = `<div id="console">
    <p class="console_title" onclick="manager('off')"> Console </p>
    <div class="config_propriety">
     
@@ -212,7 +211,10 @@ var content = `
     </section>
    </div>
   </div>`;
-document.getElementById('body').innerHTML += content;
+loadHTML();
+function loadHTML() {
+ document.getElementById('body').innerHTML += content;
+} 
 
 /* VARIABLES */
 
