@@ -1,4 +1,218 @@
 
+/* LOAD BODY CONTENT */
+var content = `
+<div id="console">
+   <p class="console_title" onclick="manager('off')"> Console </p>
+   <div class="config_propriety">
+    
+    <span class="config_name"> Sections </span>
+    <div  class="console_input">
+     <div id="sections" class="bar" onclick="propriety(this.id)"></div>
+    </div> 
+    
+    <span class="config_name"> Accounts </span>
+    <div  class="console_input">
+     <div id="accounts" class="bar" onclick="propriety(this.id)"></div>
+    </div>
+    
+    <span class="config_name"> Monetary </span>
+    <div  class="console_input">
+     <div id="monetary" class="bar" onclick="propriety(this.id)"></div>
+    </div>
+   </div>
+  </div>
+  
+  <div id="popup"> </div>
+  
+  <div id="speak">
+   <div id="box-dialog">
+    <div id="box-exit" onclick="speak('disable')"> + </div>
+    <img id="npc_icon" src="src/img/social/deviantart.png">
+    <div id="npc_nametag"> NPCNAMETAG.TXT </div>
+    <div id="buttom" onclick="administrator()"> LOG SISTEM </div>
+    <div id="box-text"> 
+     <input id="question" type="text" placeholder="O'que à na caixa de pandora?">
+    </div>
+   </div>
+   <div id="backdrop"> </div>
+  </div>
+  
+  <div id="top"> </div>
+  
+  <div class="page" id="page_house">
+   <div id="house_home">
+     
+    <div id="author" onclick="manager('on')">
+     <span id="name" onclick="manager('on')"> IMPERAZIM </span>
+    </div>
+    
+    <span id="chika-popup">
+     <img class="gif" src="src/img/chika_dance.gif" loop>
+     <span class="gif_title"> 
+      <span class="gif_name"> CHIKA_DANCE </span>
+     </span>
+    </span> 
+    
+    <section id="header">
+     
+     <span id="navbar">
+      <h2 id="other" class="nav-option" onclick="sidebar(this.id)"><strong class="nav_button"></strong></h2>
+      <h2 id="house" class="nav-option" onclick="sidebar(this.id)"><strong class="nav_button"></strong></h2>
+      <h2 id="post" class="nav-option" onclick="sidebar(this.id)"><strong class="nav_button"></strong></h2>
+      <h2 id="store" class="nav-option" onclick="sidebar(this.id)"><strong class="nav_button"></strong></h2>
+      <h2 id="clients" class="nav-option" onclick="sidebar(this.id)"><strong class="nav_button"></strong></h2>
+      <h2 id="social_ic" class="nav-option" onclick="sidebar(this.id)"><strong class="nav_button"></strong></h2>
+     </span>
+     
+     <span onclick="player()" class="music started"> </span>
+     
+     <div id="header_background_loader">
+      <span class="header_shadow"> </span>
+      <img id="header_background" src="https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/website/src/img/backgrounds/background_01.png">
+      <img id="header_content" src="https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/website/src/img/backgrounds/background_01.png">
+      <span class="header_details"> </span>
+     </div>
+     <div id="header_background_00"> </div>
+    </section>
+    
+    <section id="home">
+     <!-- INFORMATION SECTION -->
+     <div class="section-title">
+      <!-- 
+      <i class="fas fa-bell section-icon"></i> 
+      -->
+      <span class="section-font">
+       <strong></strong>
+      </span> 
+
+      <audio id="player" controls loop>
+       <source id="toggle" src="src/audio/chika_dance.mp3" type="audio/mpeg" autoplay loop>
+      </audio> 
+
+      <span id="lang_alert">
+       <span class="title"> Select Your Language!</span> <br> <br>
+       <span onclick="select('pt-br')" class="btn pt-br"> PT-BR </span>
+       <span onclick="select('en-us')" class="btn en-us"> EN-US </span>
+      </span>
+       
+      <span id="lang-pt" class="house-window" style="margin-top: 1em;">
+      
+       <span class="section-box">
+        <span class="icone fas fa-sliders-h"></span>
+        <span class="section-title"> AREA DE POSTAGEM </span> <br><br>
+        
+        <p class="section-content">
+         <strong purple> ImperaZim: </strong> 
+         Prazer me chamo <strong>ImperaZim</strong>, começei como designer no final de 2016 por hobby fazendo artes para amigos como forma de clarear a mente, mas só entrei de cabeça na area do freelancer por meados do final de 2019... Creio eu que seja um bom designer mas isso quem decide são meus clientes ne.
+        </p>
+        
+        <p class="section-content">
+         <strong purple> ImperaZim: </strong> 
+         Nesse site/blog você podera encontrar meus trabalhos, projetos, meios de contato, entre muitas outras coisas;
+         No momento talvez nem todas as coisas do site estejam em total funcionamento mas logo em breve eu irei adicionar tudo que não esta presente! 
+        </p>
+        
+        <p class="section-content">
+         <strong purple> ImperaZim: </strong> 
+         Aviso bem rapido sobre a função de musica que no momento so e possivel ativar e desativar mas em breve sera possivel alterar a musica e volume de acordo com sua preferência! 
+        </p>
+        
+       </span> 
+      </span>
+       
+      <span id="lang-en" class="house-window" style="margin-top: 1em;">
+      
+       <span class="section-box">
+        <span class="icone fas fa-sliders-h"></span>
+        <span class="section-title"> POST'S SECTION </span> <br><br>
+        
+        <p class="section-content">
+         <strong purple> ImperaZim: </strong> 
+         Pleasure my name is <strong>ImperaZim</strong>, I started as a designer at the end of 2016 as a hobby making arts for friends as a way to clear my mind, but I only got into the freelancer area in the middle of the end of 2019... I believe I'm a good designer but that's up to my clients.
+        </p>
+        
+        <p class="section-content">
+         <strong purple> ImperaZim: </strong> 
+         On this site/blog you will be able to find my works, projects, means of contact, among many other things;
+         At the moment maybe not all things on the site are fully working but soon I'll add everything that isn't there!
+        </p>
+        
+        <p class="section-content">
+         <strong purple> ImperaZim: </strong> 
+         Very quick warning about the music function that at the moment is only possible to activate and deactivate but soon it will be possible to change the music and volume according to your preference!
+        </p>
+        
+       </span> 
+      </span>
+      
+      <span id="arrows">
+       <i class="fas fa-angle-left left"></i>
+       <i class="fas fa-angle-right right"></i>
+      </span>
+      <span id="arts">
+       <span class="art_header">
+        <span class="header_name"> </span>
+       </span> 
+       <span class="art_content">
+        <img class="art-option" src="https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/website/src/img/works/header_background_01.png">
+        <img class="art-option" src="https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/website/src/img/works/header_background_02.png">
+        <img class="art-option" src="https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/website/src/img/works/header_background_03.png">
+        <img class="art-option" src="https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/website/src/img/works/header_background_04.png">
+        <img class="art-option" src="https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/website/src/img/works/header_background_05.png">
+       </span>
+      </span>
+      <span id="game">
+       <p class="game_title">
+        <span class="title_text"> GAMES </span>
+       </p>
+       <span class="game_content">
+        
+        <div class="game_section">
+         <span class="nickname">ImperaZim</span>
+         <span class="avatar_level"> Advanced Rank Nv.55 (America Server) </span>
+         <div class="button" onclick="speak('enable')"> </div>
+         <img class="sticker" src="src/img/games/genshin_impact_sticker.png">
+         <div class="char_content"> 
+         </div>
+         <img class="back" 
+         src="src/img/games/genshin_impact_background.png"> 
+        </div>
+        
+        <div class="game_section">
+         <span class="nickname"> ImperaZim </span>
+         <div class="avatar_level"> Capitain Rank Nv.70 (America Server) </div>
+         <div class="char_content"> 
+         </div>
+         <img class="back" 
+         src="src/img/games/honkai_impact_background.png"> 
+        </div>
+        
+       </span>
+      </span>
+      
+      <span id="client">
+       <p class="client_header">
+        <span class="header_title"> </span>
+       </p>
+       <span class="client_content">
+        <img style="margin-left: 90px;" class="content-option" src="src/img/client/client_01.png">
+        <img class="content-option" src="src/img/client/client_02.png">
+        <img class="content-option" src="src/img/client/client_03.png">
+        <img class="content-option" src="src/img/no_user_icon.png">
+        <img class="content-option" src="src/img/no_user_icon.png">
+        <img class="content-option" src="src/img/no_user_icon.png">
+        <img class="content-option" src="src/img/client/client_01.png">
+        <img class="content-option" src="src/img/client/client_02.png">
+        <img class="content-option" src="src/img/client/client_03.png">
+       </span>
+      </span>
+      
+      <span id="footer"> </span>
+     </div>
+    </section>
+   </div>
+  </div>`;
+document.getElementById('body').innerHTML += content;
 
 /* VARIABLES */
 
