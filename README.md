@@ -16,6 +16,9 @@
    ![PYTHON](https://img.shields.io/badge/python-darkcyan.svg?style=for-the-badge&logo=python&logoColor=white)
    ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-8201e3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![MONGOBR](https://img.shields.io/badge/MongoDB-07e24c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![RUBY](https://img.shields.io/badge/ruby-ef5c5c.svg?style=for-the-badge&logo=ruby&logoColor=white)
+   ![C#](https://img.shields.io/badge/csharp-9a4ed0.svg?style=for-the-badge&logo=csharp&logoColor=white)
+   ![C#](https://img.shields.io/badge/golang-00ccff.svg?style=for-the-badge&logo=go&logoColor=white)
  
 
 ----
