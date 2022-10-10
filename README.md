@@ -15,6 +15,7 @@
    ![LESS](https://img.shields.io/badge/less-blue.svg?style=for-the-badge&logo=less&logoColor=white)
    ![PYTHON](https://img.shields.io/badge/python-darkcyan.svg?style=for-the-badge&logo=python&logoColor=white)
    ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-8201e3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![MONGOBR](https://img.shields.io/badge/MongoDB-07e24c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
 
 ----
