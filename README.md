@@ -1,13 +1,18 @@
 
 
-<h3 align="center">ImperaZim's Profile</h2>
+<h3 align="center">ImperaZim's Profile</h3>
 
 <img width="20px" src="https://cdn.discordapp.com/emojis/1008073010768519268.png?size=2048"></img> Hello, I'm known <span style="background-color: purple;">ImperaZim!</span> I'm a Full Stack programmer with knowledge in several areas of the sector and at the moment I'm focusing on creating interfaces and developing addons & games. 
 
 ---
 
-<h3> Languages </h3>
-.... 
+## Languages
+   ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
 
 ----
 
