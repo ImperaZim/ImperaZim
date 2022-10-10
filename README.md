@@ -18,7 +18,9 @@
    ![MONGOBR](https://img.shields.io/badge/MongoDB-07e24c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![RUBY](https://img.shields.io/badge/ruby-ef5c5c.svg?style=for-the-badge&logo=ruby&logoColor=white)
    ![C#](https://img.shields.io/badge/csharp-9a4ed0.svg?style=for-the-badge&logo=csharp&logoColor=white)
-   ![C#](https://img.shields.io/badge/golang-00ccff.svg?style=for-the-badge&logo=go&logoColor=white)
+   ![GOLANG](https://img.shields.io/badge/golang-00ccff.svg?style=for-the-badge&logo=go&logoColor=white)
+   ![TYPESCRIPT](https://img.shields.io/badge/typescript-0a5aa6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+   ![REACT](https://img.shields.io/badge/reactjs-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
  
 
 ----
