@@ -21,6 +21,9 @@
    ![GOLANG](https://img.shields.io/badge/golang-00ccff.svg?style=for-the-badge&logo=go&logoColor=white)
    ![TYPESCRIPT](https://img.shields.io/badge/typescript-0a5aa6.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![REACT](https://img.shields.io/badge/reactjs-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=202020)
+   <a href="">
+   ![ELIXIR](https://img.shields.io/badge/elixir-8000ff.svg?style=for-the-badge&logo=elixir&logoColor=ffffff)
+   </a>
  
 
 ----
