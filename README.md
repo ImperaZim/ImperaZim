@@ -6,24 +6,23 @@
 
 ---
 
-## Languages
-   ![PHP](https://img.shields.io/badge/PHP-0d638f?style=for-the-badge&logo=PHP&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+## Knowledge in
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
    ![LESS](https://img.shields.io/badge/less-blue.svg?style=for-the-badge&logo=less&logoColor=white)
-   ![PYTHON](https://img.shields.io/badge/python-darkcyan.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![REACT](https://img.shields.io/badge/reactjs-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=202020)
    ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-8201e3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![MONGOBR](https://img.shields.io/badge/MongoDB-07e24c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![ANGULAR](https://img.shields.io/badge/angular-ee3f3f.svg?style=for-the-badge&logo=angular&logoColor=white)
+   ![PHP](https://img.shields.io/badge/PHP-0d638f?style=for-the-badge&logo=PHP&logoColor=white)
    ![RUBY](https://img.shields.io/badge/ruby-ef5c5c.svg?style=for-the-badge&logo=ruby&logoColor=white)
+   ![PYTHON](https://img.shields.io/badge/python-darkcyan.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+   ![MONGODB](https://img.shields.io/badge/MongoDB-07e24c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![C#](https://img.shields.io/badge/csharp-9a4ed0.svg?style=for-the-badge&logo=csharp&logoColor=white)
    ![GOLANG](https://img.shields.io/badge/golang-00ccff.svg?style=for-the-badge&logo=go&logoColor=white)
    ![TYPESCRIPT](https://img.shields.io/badge/typescript-0a5aa6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![REACT](https://img.shields.io/badge/reactjs-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=202020)
-   <a href="">
    ![ELIXIR](https://img.shields.io/badge/elixir-8000ff.svg?style=for-the-badge&logo=elixir&logoColor=ffffff)
-   </a>
  
 
 ----
