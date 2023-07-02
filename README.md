@@ -18,7 +18,6 @@
    ![RUBY](https://img.shields.io/badge/ruby-ef5c5c.svg?style=for-the-badge&logo=ruby&logoColor=white)
    ![PYTHON](https://img.shields.io/badge/python-darkcyan.svg?style=for-the-badge&logo=python&logoColor=white)
    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-   ![MONGODB](https://img.shields.io/badge/MongoDB-07e24c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![C#](https://img.shields.io/badge/csharp-9a4ed0.svg?style=for-the-badge&logo=csharp&logoColor=white)
    ![GOLANG](https://img.shields.io/badge/golang-00ccff.svg?style=for-the-badge&logo=go&logoColor=white)
    ![TYPESCRIPT](https://img.shields.io/badge/typescript-0a5aa6.svg?style=for-the-badge&logo=typescript&logoColor=white)
