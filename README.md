@@ -2,7 +2,8 @@
 
 <h3 align="center">ImperaZim's Profile</h3>
 
-<img width="20px" src="https://cdn.discordapp.com/emojis/1008073010768519268.png?size=2048"></img> Hello, I'm known <span style="color: purple;">ImperaZim!</span> I'm a Full Stack programmer with knowledge in several areas of the sector and at the moment I'm focusing on creating interfaces and developing addons & games. 
+![BANNER](https://raw.githubusercontent.com/ImperaZim/ImperaZim/main/banner.gif)
+<img width="20px" src="https://cdn.discordapp.com/emojis/1008073010768519268.png?size=2048"></img>Hello, I'm known <span style="color: purple;">ImperaZim!</span> I'm a Full Stack programmer with knowledge in several areas of the sector and at the moment I'm focusing on creating interfaces and developing addons & games. 
 
 ---
 
