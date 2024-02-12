@@ -22,6 +22,8 @@
    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
    ![C#](https://img.shields.io/badge/csharp-9a4ed0.svg?style=for-the-badge&logo=csharp&logoColor=white)
    ![GOLANG](https://img.shields.io/badge/golang-00ccff.svg?style=for-the-badge&logo=go&logoColor=white)
+   ![NODEJS](https://img.shields.io/badge/node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![GIT](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white)
    ![TYPESCRIPT](https://img.shields.io/badge/typescript-0a5aa6.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![ELIXIR](https://img.shields.io/badge/elixir-8000ff.svg?style=for-the-badge&logo=elixir&logoColor=ffffff)
  
