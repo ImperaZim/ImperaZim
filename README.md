@@ -6,7 +6,7 @@
 - - - - 
 
 <h3>Hello, I am Impera 👀</h3>
-<h5>Developer and Gamer</h5>
+**Developer and Gamer**
 
 ## **☕ About me**
 <a href="https://github.com/ImperaZim"><img align="left" width="100" src="./images/nazuna_ashamed.png"></a>
