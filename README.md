@@ -2,8 +2,10 @@
 
 ![Preview](./images/header.png)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/989254978617085962?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<img align="right" width="425" src="https://lanyard.kyrie25.me/api/989254978617085962?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117">
+
 - - - - 
+
 ```php 
 final class ImperaZim {
   const WELCOME = 'Hi!👋 I'm ImperaZim!'
@@ -11,10 +13,15 @@ final class ImperaZim {
 }
 ```
 
+- - - -
+
 ## **☕ About me**
 <a href="https://github.com/ImperaZim"><img align="left" width="100" src="./images/anko_any.png"></a>
 Hello, I'm known as ImperaZim! I'm just a programmer who really likes indie games with chaotic and cyberpunk settings. I like to consider myself a random person...
 <br><br>
+
+- - - 
+
 
 ## **💻 Experience**
 <a href="https://github.com/ImperaZim"><img align="right" width="100" src="./images/anko_badass.png"></a>
@@ -27,23 +34,22 @@ Additionally, I have experience with the following technologies and frameworks:
 - **Frameworks**: React, Angular, Laravel...
 - **Tools**: Docker, Git, Jenkins...
 
+- - - - 
+
 ## **📊 Github Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ImperaZim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperaZim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-## **🧋Cutie Counter**
+- - - - 
+
+## **🧋Visitor Counter**
 ```yaml
 People who visited my profile ;) 
 Ehe ~ With you +1.
 ```
 <a href="https://discord.com/users/989254978617085962"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@imperazim?theme=rule34"></a>
 
-<br><br><br><br>
 - - - - 
+
 ## **📫 Contact**
 **Please Contact me on Discord for a quick response:** [imperazim](https://discord.com/users/989254978617085962)
-
-**You can also email me here:** imperazim@gmail.com 
-
-[![](https://img.shields.io/github/followers/ImperaZim?label=Followers&style=social)](https://github.com/ImperaZim)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/989254978617085962)
