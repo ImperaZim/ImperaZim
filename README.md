@@ -40,8 +40,11 @@ Additionally, I have experience with the following technologies and frameworks:
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ImperaZim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperaZim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
+<<<<<<< HEAD
 - - - - 
 
+=======
+>>>>>>> 202fcc37910051dc62ca0eb759ec1702fd6ce5d5
 ## **🧋Visitor Counter**
 ```yaml
 People who visited my profile ;) 
