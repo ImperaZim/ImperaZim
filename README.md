@@ -34,8 +34,15 @@ Additionally, I have experience with the following technologies and frameworks:
 
 
 ## **📊 Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ImperaZim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImperaZim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imperazim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=imperazim&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" /> 
+
+<center><p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=imperazim&margin-w=28&margin-h=15&theme=radical&hide_border=true">
 </p>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=imperazim&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
+</center>
 
 ## **🧋Visitor Counter**
 ```yaml
