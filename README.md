@@ -5,17 +5,18 @@
 <h3 align="center"><img align="center" width="425" src="https://lanyard.kyrie25.me/api/989254978617085962?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></h3>
 
 
-```php
-final class ImperaZim {
-  const WELCOME = "Hi!👋 I'm ImperaZim!"
-  const LITTLE_INFO = "Indie Game Enthusiast and Programmer."
-}
-```
+<p>
+    <a href="https://github.com/ImperaZim/EasyLibrary" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imperazim&repo=EasyLibrary&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
+</a>
+</p>
+
+
 
 ## **☕ About me**
 <a href="https://github.com/ImperaZim"><img align="left" width="100" src="./images/anko_any.png"></a>
 Hello, I'm known as ImperaZim! I'm just a programmer who really likes indie games with chaotic and cyberpunk settings. I like to consider myself a random person...
 <br><br>
+
 
 
 ## **💻 Experience**
