@@ -50,7 +50,7 @@ People who visited my profile ;)
 Ehe ~ With you +1.
 ```
 
-<a align="center" href="https://discord.com/users/989254978617085962"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@imperazim?theme=rule34"></a>
+<a align="center" href="https://discord.com/users/989254978617085962"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@imperazim?theme=booru-jaypee"></a>
 
 ## **📫 Contact**
 **Please Contact me on Discord for a quick response:** [imperazim](https://discord.com/users/989254978617085962)
